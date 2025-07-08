@@ -1,2 +1,9 @@
 # Experiencias usando o Git e o Github
-Experiencia usando Git e GitHub
+
+## Git
+
+É um sistema  de vercionamento muito usado para desenvolvimento de sites, apps, softwares etc.
+
+## GitHub
+
+Plataforma para compartilhar projetos baseados no sistema Git.
